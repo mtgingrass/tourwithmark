@@ -46,3 +46,10 @@ theme = "hugo-theme-dream"
   darkLinkColor = "darkseagreen"
   darkNav = true 
   dark404 = true
+
+[markup]
+
+  [markup.goldmark]
+
+    [markup.goldmark.renderer]
+    unsafe = true
