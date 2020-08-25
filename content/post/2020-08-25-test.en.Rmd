@@ -1,6 +1,7 @@
 ---
 title: Test
 author: mtgingrass
+cover: /post/2020-08-25-test.en_files/IMG_1680.jpg
 date: '2020-08-25'
 slug: test
 categories:
@@ -9,4 +10,8 @@ tags:
   - DC
 ---
 
-Hello
+Hello, this is a test. 
+
+### Heading 3
+
+This is cool. 
