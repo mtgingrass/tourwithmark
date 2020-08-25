@@ -1,4 +1,4 @@
-baseurl = "https://tourwithmark.com/"
+baseurl = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Hugo Theme Dream"
