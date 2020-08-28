@@ -16,7 +16,7 @@ tags:
 
 ## Video
 
-<iframe width="315" height="157" src="https://www.youtube.com/embed/RKtrazsOupw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/RKtrazsOupw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 2 - The fun begins
 
