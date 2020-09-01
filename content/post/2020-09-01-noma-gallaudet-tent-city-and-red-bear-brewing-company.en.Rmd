@@ -11,6 +11,7 @@ tags:
   - noma
   - tent city
   - red bear
+draft: true
 ---
 ## Video
 
