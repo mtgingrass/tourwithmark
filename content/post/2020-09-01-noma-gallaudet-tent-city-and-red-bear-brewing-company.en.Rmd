@@ -11,7 +11,7 @@ tags:
   - noma
   - tent city
   - red bear
-summary: This is a test
+summary: Taking a stroll from Wundergarten to Red Bear brewing company. On the way, I pass tent city. What is tent city, you ask? Take a look at this video and find out.
 ---
 ## Video
 

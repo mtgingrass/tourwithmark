@@ -13,6 +13,7 @@ tags:
   - 16th St
   - Scooter
   - Rock Creek Park
+summary: In this video, I take a Lime scooter down to the entryway of Rock Creek Park and then explore the nature held within. I start off in Silver Spring but end up in Washington DC. This park is beautiful.
 ---
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/rE7cgqTkkz0' frameborder='0' allowfullscreen></iframe></div>
@@ -20,7 +21,7 @@ tags:
 
 ## Exploring Rock Creek Park
 
-Int this video, I take a Lime scooter down to the entryway of Rock Creek Park and then explore the nature held within. I start off in Silver Spring but end up in Washington DC. This park is beautiful. 
+In this video, I take a Lime scooter down to the entryway of Rock Creek Park and then explore the nature held within. I start off in Silver Spring but end up in Washington DC. This park is beautiful. 
 
 ## Camera Gear Used
 
