@@ -6,7 +6,7 @@ theme = "hugo-theme-dream"
 
 # copyright = ""
 
-# googleAnalytics = ""
+googleAnalytics = "UA-177079344-1"
 
 disqusShortname = "tourwithmark"
 
