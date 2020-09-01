@@ -48,8 +48,6 @@ theme = "hugo-theme-dream"
   dark404 = true
 
 [markup]
-
   [markup.goldmark]
-
     [markup.goldmark.renderer]
     unsafe = true
