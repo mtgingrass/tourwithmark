@@ -8,7 +8,7 @@ theme = "hugo-theme-dream"
 
 # googleAnalytics = ""
 
-# disqusShortname = ""
+disqusShortname = ""https-cradletograver-com
 
 # enableRobotsTXT = true
 
