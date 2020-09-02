@@ -7,7 +7,7 @@ slug: test
 categories:
   - Silver Spring
   - Maryland
-  - Random
+  - DMV
 tags:
   - silver spring
   - maryland
