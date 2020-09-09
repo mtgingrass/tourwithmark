@@ -27,7 +27,7 @@ params:
 
 ## Camera Gear Used
 
-`r paste0(ad_gopro, ad_sandisk, ad_chesty)
+`r paste0(ad_gopro, ad_sandisk, ad_chesty)`
 
 ```{r echo=FALSE}
  if(params$ads == TRUE){
