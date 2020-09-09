@@ -31,6 +31,7 @@ params:
 
 ```{r}
 if(params$ads == TRUE){
+  cat("Test")
   paste0(ad_gopro, ad_sandisk, ad_chesty)
 }
 ```
