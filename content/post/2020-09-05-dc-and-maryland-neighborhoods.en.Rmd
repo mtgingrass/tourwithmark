@@ -30,7 +30,7 @@ params:
 <!-- `r paste0(ad_gopro, ad_sandisk, ad_chesty) -->
 
 ```{r}
-if(params$ads){
+if(params$ads == TRUE){
   paste0(ad_gopro, ad_sandisk, ad_chesty)
 }
 ```
