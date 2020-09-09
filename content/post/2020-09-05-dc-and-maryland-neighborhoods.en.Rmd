@@ -18,7 +18,7 @@ tags:
   - portal
 summary: Tour through some DC Neighborhoods!
 params:
-  ads: TRUE
+  ads: FALSE
 ---
 
 ## Video
