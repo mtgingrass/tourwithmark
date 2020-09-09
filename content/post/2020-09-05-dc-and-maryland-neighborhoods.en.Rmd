@@ -31,7 +31,9 @@ params:
 
 ```{r, eval=TRUE}
 if(params$ads == TRUE) {
-  cat(ad_gopro, ad_sandisk, ad_chesty)
+  ad_gopro
+  ad_sandisk
+  ad_chesty
 }
 ```
 
