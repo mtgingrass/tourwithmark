@@ -18,7 +18,7 @@ tags:
   - portal
 summary: Tour through some DC Neighborhoods!
 params:
-  ads: "true"
+  ads: TRUE
 ---
 
 
@@ -33,10 +33,9 @@ params:
 </div>
 <div id="camera-gear-used" class="section level2">
 <h2>Camera Gear Used</h2>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=hatro-20&amp;marketplace=amazon&amp;region=US&amp;placement=B07GDGZCCH&amp;asins=B07GDGZCCH&amp;linkId=21ac19b3aebd88af568926848ed0e44e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff">
-</iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=hatro-20&amp;marketplace=amazon&amp;region=US&amp;placement=B07FCR3316&amp;asins=B07FCR3316&amp;linkId=966152948273f58ed1640fff2edc1aa0&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff">
-</iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=hatro-20&amp;marketplace=amazon&amp;region=US&amp;placement=B07GD1HX7H&amp;asins=B07GD1HX7H&amp;linkId=d540f63169cf5579fe6cf0fe3ad80081&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff">
-</iframe>
+<!-- `r paste0(ad_gopro, ad_sandisk, ad_chesty) -->
+<pre class="r"><code>if(params$ads){
+  paste0(ad_gopro, ad_sandisk, ad_chesty)
+}</code></pre>
+<pre><code>## [1] &quot;&lt;iframe style=\&quot;width:120px;height:240px;\&quot; marginwidth=\&quot;0\&quot; marginheight=\&quot;0\&quot; scrolling=\&quot;no\&quot; frameborder=\&quot;0\&quot; src=\&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=hatro-20&amp;marketplace=amazon&amp;region=US&amp;placement=B07GDGZCCH&amp;asins=B07GDGZCCH&amp;linkId=21ac19b3aebd88af568926848ed0e44e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff\&quot;&gt;\r\n    &lt;/iframe&gt;&lt;iframe style=\&quot;width:120px;height:240px;\&quot; marginwidth=\&quot;0\&quot; marginheight=\&quot;0\&quot; scrolling=\&quot;no\&quot; frameborder=\&quot;0\&quot; src=\&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=hatro-20&amp;marketplace=amazon&amp;region=US&amp;placement=B07FCR3316&amp;asins=B07FCR3316&amp;linkId=966152948273f58ed1640fff2edc1aa0&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff\&quot;&gt;\r\n    &lt;/iframe&gt;&lt;iframe style=\&quot;width:120px;height:240px;\&quot; marginwidth=\&quot;0\&quot; marginheight=\&quot;0\&quot; scrolling=\&quot;no\&quot; frameborder=\&quot;0\&quot; src=\&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=hatro-20&amp;marketplace=amazon&amp;region=US&amp;placement=B07GD1HX7H&amp;asins=B07GD1HX7H&amp;linkId=d540f63169cf5579fe6cf0fe3ad80081&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff\&quot;&gt;\r\n    &lt;/iframe&gt;&quot;</code></pre>
 </div>

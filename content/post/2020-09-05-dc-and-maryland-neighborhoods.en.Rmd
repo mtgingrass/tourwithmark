@@ -18,7 +18,7 @@ tags:
   - portal
 summary: Tour through some DC Neighborhoods!
 params:
-  ads: "true"
+  ads: TRUE
 ---
 
 ## Video
@@ -28,10 +28,9 @@ params:
 ## Camera Gear Used
 
 <!-- `r paste0(ad_gopro, ad_sandisk, ad_chesty) -->
-<!-- ` -->
 
 ```{r}
-if(params$ads = "true"){
+if(params$ads){
   paste0(ad_gopro, ad_sandisk, ad_chesty)
 }
 ```
