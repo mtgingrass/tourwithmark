@@ -27,7 +27,9 @@ params:
 
 <!-- `r if(params$ads == TRUE) {paste0(ad_gopro, ad_sandisk, ad_chesty)}` -->
 
-```{r, eval=params$ads, child='C:/Users/markg/Documents/tourwithmark/ad_space.Rmd'}
+Hi, this is a cool battery `r paste0(battery)`, please check it out. 
 
-```
+# ```{r, eval=params$ads, child='C:/Users/markg/Documents/tourwithmark/ad_space.Rmd'}
+# 
+# ```
 
