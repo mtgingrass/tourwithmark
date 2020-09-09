@@ -27,5 +27,11 @@ params:
 
 ## Camera Gear Used
 
-`r if(params$ads == TRUE) {paste0(ad_gopro, ad_sandisk, ad_chesty)}`
+<!-- `r if(params$ads == TRUE) {paste0(ad_gopro, ad_sandisk, ad_chesty)}` -->
+
+```{r, eval=TRUE}
+if(params$ads == TRUE) {
+  cat(ad_gopro, ad_sandisk, ad_chesty)
+}
+```
 
