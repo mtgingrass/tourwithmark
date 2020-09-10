@@ -1,4 +1,5 @@
-bseurl = "https://tourwithmark/content/"
+bseurl = "https://tourwithmark/"
+relativeurls = false
 #baseurl = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
