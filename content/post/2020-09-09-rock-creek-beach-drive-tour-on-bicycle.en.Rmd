@@ -1,0 +1,27 @@
+---
+title: Rock Creek Beach Drive Tour on Bicycle
+author: mtgingrass
+cover: /post/2020-09-09-rock-creek-beach-drive-tour-on-bicycle.en_files/tryst.png
+date: '2020-09-09'
+slug: rock-creek-beach-drive-tour-on-bicycle
+categories:
+  - DMV
+  - Maryland
+  - Silver Spring
+  - Washington DC
+tags:
+  - DC
+  - maryland
+  - Rock Creek Park
+summary: Tour through Rock Creek Park on my way from Silver Spring, MD to Trys coffee shop down in DC off 18th St.
+params:
+  ads: TRUE
+---
+
+## Video
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/n8ez1rBg4Zg' frameborder='0' allowfullscreen></iframe></div>
+
+
+```{r, eval=params$ads, child='C:/Users/markg/Documents/tourwithmark/ad_space.Rmd'}
+```
