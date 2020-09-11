@@ -46,6 +46,11 @@ disqusShortname = "https-tourwithmark-com.disqus.com"
   darkLinkColor = "darkseagreen"
   darkNav = true 
   dark404 = true
+  
+  highlightjsVersion = "9.12.0"
+  highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+  highlightjsLang = ["r", "yaml"]
+  highlightjsTheme = "github"
 
 [markup]
   [markup.goldmark]
