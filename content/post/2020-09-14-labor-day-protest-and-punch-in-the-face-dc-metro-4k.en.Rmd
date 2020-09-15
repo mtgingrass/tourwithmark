@@ -1,0 +1,30 @@
+---
+title: Labor Day Protest and Punch in the Face DC Metro [4K]
+author: mtgingrass
+cover: /post/2020-09-14-labor-day-protest-and-punch-in-the-face-dc-metro-4k.en_files/crazy metro lady thumb dc.png
+date: '2020-09-14'
+slug: labor-day-protest-and-punch-in-the-face-dc-metro-4k
+categories:
+  - DMV
+  - Maryland
+  - Silver Spring
+  - Washington DC
+tags:
+  - maryland
+  - DC
+  - silver spring
+  - metro
+  - crazy
+summary: Metro lady threatened to punch me in the face. 
+params:
+  ads: TRUE
+---
+
+## Video
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TZTRmsNOHbY' frameborder='0' allowfullscreen></iframe></div>
+
+
+```{r, eval=params$ads, child='C:/Users/markg/Documents/tourwithmark/ad_space.Rmd'}
+
+```

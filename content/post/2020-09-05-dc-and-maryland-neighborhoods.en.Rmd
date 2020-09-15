@@ -27,5 +27,4 @@ params:
 
 
 ```{r, eval=params$ads, child='C:/Users/markg/Documents/tourwithmark/ad_space.Rmd'}
-params
 ```
