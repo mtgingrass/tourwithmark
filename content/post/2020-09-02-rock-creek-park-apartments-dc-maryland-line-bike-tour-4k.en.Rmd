@@ -1,7 +1,7 @@
 ---
 title: Rock Creek Park Apartments - DC/Maryland Line Bike Tour [4k]
 author: mtgingrass
-cover: /post/2020-09-02-rock-creek-park-apartments-dc-maryland-line-bike-tour-4k.en_files/rock creek apartments.png
+cover: /post/2020-09-02-rock-creek-park-apartments-dc-maryland-line-bike-tour-4k.en_files/rock creek apartments.jpg
 date: '2020-09-02'
 slug: rock-creek-park-apartments-dc-maryland-line-bike-tour-4k
 categories:
