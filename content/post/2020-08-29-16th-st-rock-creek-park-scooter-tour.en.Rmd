@@ -1,7 +1,7 @@
 ---
 title: 16th St, Rock Creek Park, Scooter Tour
 author: mtgingrass
-Cover: /post/2020-08-29-16th-st-rock-creek-park-scooter-tour.en_files/0282020 Thumb.png
+Cover: /post/2020-08-29-16th-st-rock-creek-park-scooter-tour.en_files/0282020 Thumb.jpg
 date: '2020-08-28'
 slug: 16th-st-rock-creek-park-scooter-tour
 categories:

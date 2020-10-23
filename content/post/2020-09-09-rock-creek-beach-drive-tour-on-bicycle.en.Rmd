@@ -1,7 +1,7 @@
 ---
 title: Rock Creek Beach Drive Tour on Bicycle
 author: mtgingrass
-cover: /post/2020-09-09-rock-creek-beach-drive-tour-on-bicycle.en_files/tryst.png
+cover: /post/2020-09-09-rock-creek-beach-drive-tour-on-bicycle.en_files/tryst.jpg
 date: '2020-09-09'
 slug: rock-creek-beach-drive-tour-on-bicycle
 categories:
