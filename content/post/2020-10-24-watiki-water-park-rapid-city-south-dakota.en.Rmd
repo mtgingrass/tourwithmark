@@ -14,7 +14,7 @@ summary: A quick tour WaTiki Water park in Rapid City, South Dakota.
 ---
 ## WaTikie Water Park
 
-A quick tour of WaTiki Water Park in Rapid City, SD. 
+A quick tour of WaTiki Water Park in Rapid City, South Dakota (SD) 
 
 ## Video
 
