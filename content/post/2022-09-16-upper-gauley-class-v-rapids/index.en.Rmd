@@ -4,6 +4,7 @@ output:
   html_document:
     toc: true
     theme: united
+cover: images/The Gauley Upper.jpg
 author: mtgingrass
 date: '2022-09-16'
 slug: []
@@ -11,6 +12,7 @@ categories: [adventure]
 tags: [rafting, whitewater, gauley, upper river, lower river, gorge]
 summary: The Upper Gauley is the pinnacle of whitewater experiences and for experienced rafters only. This 11-mile section of the river requires all the paddling power you can muster and may be the most extreme trip most rafters will ever attempt. This is serious whitewater, and it’s an adventure you won’t forget!
 ---
+
 
 # Adventures on the Gorge
 
