@@ -1,6 +1,7 @@
 ---
 title: Laurel Hill County Park SC
 author: mtgingrass
+cover: /post/2022-09-26-laurel-hill-county-park-sc/images/Copy of Laurel Hill Park.jpg
 date: '2022-09-26'
 slug: []
 categories:
@@ -12,7 +13,6 @@ summary: 5.0 mile loop just outside of Charlesotn, South Carolina. This is an ea
 ---
 
 ## Laurel Hill Park
-
 
 ## Location
 
