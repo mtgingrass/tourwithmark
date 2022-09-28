@@ -9,7 +9,7 @@ categories:
   - South Carolina
   - Charleston
 tags: []
-summary: 5.0 mile loop just outside of Charlesotn, South Carolina. This is an easy route, but nonetheless, popular for hiking, walking, and mountain biking. Enjoy some scenary, check out the dog, and have a picnic.
+summary: Check out this 5 mile loop just outside of Charlesotn, South Carolina. This is an easy route, but nonetheless, popular for hiking, walking, and mountain biking. Enjoy some scenary, check out the dog, and have a picnic.
 ---
 
 ## Laurel Hill Park
