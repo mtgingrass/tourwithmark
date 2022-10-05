@@ -4,7 +4,7 @@ author: mtgingrass
 date: '2022-10-05'
 cover: /post/2022-10-05-bears-best-trail-loop-las-vegas/images/Bears_Best.jpg
 slug: []
-draft: true
+draft: false
 categories:
   - Mountain Biking
   - Nevada
