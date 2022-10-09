@@ -1,0 +1,17 @@
+---
+title: Charleston DIY Bridge Skate Park
+author: 'mtgingrass'
+date: '2022-10-09'
+slug: []
+cover: post/2022-10-09-charleston-diy-bridge-skate-park/images/Copy of Blue Modern Benefits of Running Youtube Thumbnail.jpg 
+categories:
+  - Charleston
+tags:
+  - skateboard
+  - skateboarding
+summary: The downtown Charleston, Do It Yourself (DIY) Bridge Spot is a favorite for skateboarders. It’s free, the skaters build it, and it’s out of sight, out of mind. Unfortunately, that’s the issue; people find it hard to find this spot. This brief blog post will discuss how to get here, where to park, and some other hidden gems. 
+---
+
+## Blunt Refresher Video
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/MKv7LrZqHwA' frameborder='0' allowfullscreen></iframe></div>
