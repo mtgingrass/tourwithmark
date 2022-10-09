@@ -30,6 +30,7 @@ I marked the two areas you can park in the diagram below. The lower P is easier 
 </p>
 
 For the extra saavy, the coordinates are 32.801298, -79.945893. 
+
 <p align='center">
   <img src="images/DIY Bridge Spot Photo.jpg" width="95%"/>
 </p>
