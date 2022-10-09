@@ -3,7 +3,7 @@ title: Charleston DIY Bridge Skate Park
 author: 'mtgingrass'
 date: '2022-10-09'
 slug: []
-cover: post/2022-10-09-charleston-diy-bridge-skate-park/images/Copy of Blue Modern Benefits of Running Youtube Thumbnail.jpg 
+cover: /post/2022-10-09-charleston-diy-bridge-skate-park/images/Copy of Blue Modern Benefits of Running Youtube Thumbnail.jpg 
 categories:
   - Charleston
 tags:
@@ -12,6 +12,21 @@ tags:
 summary: The downtown Charleston, Do It Yourself (DIY) Bridge Spot is a favorite for skateboarders. It’s free, the skaters build it, and it’s out of sight, out of mind. Unfortunately, that’s the issue; people find it hard to find this spot. This brief blog post will discuss how to get here, where to park, and some other hidden gems. 
 ---
 
+Welcome to Tour With Mark (tourwithmark.com). The best place to follow my random adventures. I like to post raw, unedited footage to see the real deal. I’ll try to provide short clips for Tic Tok and impatient ones, but I make no promises. 
+
 ## Blunt Refresher Video
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/MKv7LrZqHwA' frameborder='0' allowfullscreen></iframe></div>
+
+
+## Location & Parking
+
+Use [Google Maps](https://goo.gl/maps/L6rWvH6QttvnuVrX9) or [Apple Maps](https://maps.apple.com/?address=289%20Huger%20St,%20Charleston,%20SC%20%2029403,%20United%20States&auid=9871147643011338615&ll=32.801298,-79.945893&lsp=9902&q=Palmetto%20Brewing&_ext=CjIKBQgEEOIBCgQIBRADCgQIBhBoCgQIChAACgQIUhABCgQIVRAPCgQIWRACCgUIpAEQARImKYCC5r/9ZUBAMZ6qVA3h/FPAOf5XDBwkZ0BAQXDZD/Qx/FPAUAQ%3D) and look for “Palmetto Brewing Company.” Once you find it, you will see a bridge adjacent to the brewing company. Park right under the bridge, and you are golding. 
+
+I marked the two areas you can park in the diagram below. The lower P is easier to park at because there are not a lot of divots and holes in the ground. However, you must walk across the street and go to the other parking area to find the DIY Bridge Spot. The lower P has plenty of parking but drive very slow due to the potholes and unpaved sections. Both parking areas are safe, and law enforcement won't’ mess with you. 
+
+<p align="center">
+  <img src="images/Palmetto Brewing Company.jpg" width="95%"/>
+</p>
+
+For the extra saavy, the coordinates are 32.801298, -79.945893. 
